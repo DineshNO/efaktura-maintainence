@@ -1,0 +1,5 @@
+# Project exclude paths
+/core/target/
+/infrastructure/target/
+.idea
+.classpath
