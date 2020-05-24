@@ -3,3 +3,4 @@
 /infrastructure/target/
 .idea
 .classpath
+.mvn
